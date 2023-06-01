@@ -1,0 +1,10 @@
+* parser.common-rules
+
+Esrap rules (and rule-generating macros) for common parsing tasks:
+whitespace, comments, literals, operators
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/scymtym/parser.common-rules.git |
+| commit  | b7652d                                                 |
+| systems | parser.common-rules parser.common-rules.operators      |
+|---------+--------------------------------------------------------|
